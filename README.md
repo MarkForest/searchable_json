@@ -17,8 +17,8 @@
 
 2.	Скопируйте файл .env.example в .env:
 
-    ```bash 
-   cp .env.example .env
+    ```bash
+    cp .env.example .env
     ```
 
 3. Запустите Sail для установки зависимостей:
